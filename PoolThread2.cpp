@@ -1,4 +1,4 @@
-#include <iostream>       // std::cin, std::cout
+#include <iostream>       
 #include <cstring>
 #include <cstdio>
 #include "PoolThread.h"
